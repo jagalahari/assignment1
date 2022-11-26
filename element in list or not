@@ -1,0 +1,13 @@
+a=[3,2,4,5,3,1,8,6]
+print("Enter a number:")
+n=int(input())
+if n in a:
+    print("YES")
+else:
+    print("NO")
+  
+  Output
+  -------
+  Enter a number:
+  7
+  NO
